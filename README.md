@@ -3,5 +3,5 @@ NodeJs script that converts two column, comma seperated CSV to a key=value .prop
 
 ## Usage
 Run with node on command line:
-SYNTAX: node csvto18n.js [name of csv file]
-EXAMPLE: node csvto18n.js lang_fr.csv
+**SYNTAX**: node csvto18n.js [name of csv file]
+**EXAMPLE**: node csvto18n.js lang_fr.csv
